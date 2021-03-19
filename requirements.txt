@@ -1,0 +1,4 @@
+voila
+pillow
+ipywidgets
+pytesseract
